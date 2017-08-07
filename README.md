@@ -10,11 +10,15 @@ This repository contains samples using Anaconda's Python 3 distribution, useful 
 
 Content
 -----------------------------------------------------------------------------
-[Microsoft R Server Samples](/mrs_samples/) - Sample scripts showing key features of Microsoft R Server
+[Getting Started with Python](/intro_to_python/) - Sample scripts showing key features of Python
 
-[SQL Server with R Services](/sqlserver_r_samples/) - Samples showing how to use production ready analytics embedded in SQL Server
+[Visualization using Python](/visualization/) - Information and samples showing various approaches to visualizing analytics with <i>matplotlib</i> and <i>plotly</i>
 
-[Visualizing Analytics](/visual_analytics) - Information and samples showing various approaches to visualizing analytics
+[Machine Learning](/machine_learning/) - Introduction to machine learning algorithms in Python with <i>scikit-learn</i>
+
+[Hadoop and Spark](/hadoop_and_spark/) - Sample connectivity instructions for connecting to Hadoop and executing Spark jobs with <i>PySpark</i>
+
+[SQL Server Python Services](https://docs.microsoft.com/en-us/sql/advanced-analytics/python/sql-server-python-services) - Samples showing how to use production ready analytics embedded in SQL Server
 
 [Team Data Science](/teamdatascience/) - Description of the Team Data Science process suggested by Microsoft and tips for implementing in your own organization
 
