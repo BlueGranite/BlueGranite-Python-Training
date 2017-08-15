@@ -10,19 +10,21 @@ This repository contains samples using Anaconda's Python 3 distribution, useful 
 
 Content
 -----------------------------------------------------------------------------
-[Getting Started with Python](/intro_to_python/) - Sample scripts showing key features of Python
+[Getting Started with Python](/python-basics/) - Sample scripts showing key features of Python
 
-[Visualization using Python](/visualization/) - Information and samples showing various approaches to visualizing analytics with <i>matplotlib</i> and <i>plotly</i>
+[Visualization using Matplotlib](/visualization/) - Information and samples showing various approaches to visualizing analytics with <i>matplotlib</i>.
+
+[Visualization using Plotly](https://plot.ly/python/ipython-notebook-tutorial/) - Tutorials and examples for interactive visualization in <i>Plotly</i>.
 
 [Machine Learning](/machine_learning/) - Introduction to machine learning algorithms in Python with <i>scikit-learn</i>
 
-[Hadoop and Spark](/hadoop_and_spark/) - Sample connectivity instructions for connecting to Hadoop and executing Spark jobs with <i>PySpark</i>
+[Hadoop and Spark](/hadoop-spark/) - Sample connectivity instructions for connecting to Hadoop and executing Spark jobs with <i>PySpark</i>
 
 [SQL Server Python Services](https://docs.microsoft.com/en-us/sql/advanced-analytics/python/sql-server-python-services) - Samples showing how to use production ready analytics embedded in SQL Server
 
-[Team Data Science](/teamdatascience/) - Description of the Team Data Science process suggested by Microsoft and tips for implementing in your own organization
+[Team Data Science](https://azure.microsoft.com/en-us/documentation/learning-paths/data-science-process/) - Description of the Team Data Science process suggested by Microsoft and tips for implementing in your own organization
 
-[Other Useful Information](/other_useful_info) - Information useful for teams getting stared with Analytics and implementing Modern Data Platform solutions
+[Other Useful Information](/additional-notebooks) - Additional resources and deeper information for the packages covered in the training
 
 -----------------------------------------------------------------------------
 
