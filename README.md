@@ -16,9 +16,7 @@ Content
 
 [Visualization using Plotly](https://plot.ly/python/ipython-notebook-tutorial/) - Tutorials and examples for interactive visualization in <i>Plotly</i>.
 
-[Machine Learning](/machine_learning/) - Introduction to machine learning algorithms in Python with <i>scikit-learn</i>
-
-[Hadoop and Spark](/hadoop-spark/) - Sample connectivity instructions for connecting to Hadoop and executing Spark jobs with <i>PySpark</i>
+[Machine Learning](/machine-learning/) - Introduction to machine learning algorithms in Python with <i>scikit-learn</i>
 
 [SQL Server Python Services](https://docs.microsoft.com/en-us/sql/advanced-analytics/python/sql-server-python-services) - Samples showing how to use production ready analytics embedded in SQL Server
 
